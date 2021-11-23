@@ -1,2 +1,115 @@
 <html>
-<
+<head>
+<style>
+
+  h1{background-color:#FFFFFF ;
+     color:#00BFFF;
+     border: 5px;
+     font-size: 3em;
+     font-weight: ;
+     font-family: Comic Sans MS;}
+
+  h2{font-size: 2.5em;
+     font-family:Lucida Bright;}
+
+  h3{font-size: 2.5em;
+     font-family:Lucida Bright;}
+
+  p1{color:#FFFFFF;
+     font-size: 1.8em;
+     font-weight:900;
+     font-family: Comic Sans MS;}
+  
+  p2{color:#FFFFFF;
+     font-size: 1.8em;
+     font-weight:900;
+     font-family: Comic Sans MS;}
+
+  p3{color:#FFFFFF;
+     font-size: 1.8em;
+     font-weight:900;
+     font-family: Comic Sans MS;}
+
+  figcaption{color: #1f1e33;
+             font-size: 2em;
+             font-family:Copperplate;}
+
+  sup{font-size: 0.5em;}
+
+  body{background-color:#78d7ed;}
+
+</style>
+</head>
+
+<body>
+  
+  <center><h1>Japanese Vtuber <span style="text-decoration:line-through">Entertainment</span> Idol Group ----- Hololive<sup>®</sup><h1></center> 
+  
+  <br>
+
+  <h2>Introduction to <a href="https://www.hololive.tv/">"Hololive"</a></h2><br>
+
+
+  <p1>Hololive belongs to a Japanese entertainment corporation which names COVER.<br><br>Since the founder,Tanigou Motoaki (谷鄉元昭) , has established COVER from 2016 to nowadays,idols in hololive has accumulated over 19 million subscribes on their own Youtube channels in total.</p1><br><br><br><br>
+
+  <center><figure>    
+    <img src = "https://thumbor.4gamers.com.tw/XYVVUdhVjMjxQ471mKKLj7VQRw0=/800x0/filters:extract_cover():no_upscale():quality(80)/https%3A%2F%2Fimg.4gamers.com.tw%2Fckfinder%2Fimages%2FALIEN%2F2021-1%2Fimg_379841ff54ae71bd5e1df1cf1552eb8b999629.jpg%3FversionId%3DxoRG6FwHCEUp6TpAyC_lwNGhUvnA_xFi"
+
+    alt = "COVER founder---Tanigou Motoaki(谷鄉元昭)" 
+    height = "400"
+    title = "YAGOO"
+
+    ><br>
+
+    <figcaption><b>COVER founder---Tanigou Motoaki(谷鄉元昭)<br>He also has a nickname named by the hololive fans -- YAGOO</b></figcaption>
+    </figure></center><br><br><br>
+
+  <p2>Moreover,the hololive group not only develop well in Japan,but also has oversea groups of entertainers such as America,Indonesia that put "Hololive" all over the world.<br><br>What's the most important is,not only their intriguing performance on Internet in recent years has undoubtedly made the Vtuber industry go rival,but also inderectly made the Internet industry push into a new demension.</p2><br><br><br>
+
+  <center><figure>    
+    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TRas3IozFeWgv9meXxhmmDLVlMgEVbGPmeNv6vi1QpUQw5RlKvMC3V-UIsfPYW7RIJQ&usqp=CAU"
+
+    alt = "Hololive ENGLISH" 
+    height = "200"
+    title = "Hololive ENGLISH"
+
+    ><br>
+
+    <figcaption><b><a href="https://www.hololive.tv/member">Hololive ENGLISH group</a></b></figcaption>
+    </figure></center><br><br><br>
+
+
+  <center><figure>    
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hololive_INDONESIA_logo.svg/2560px-Hololive_INDONESIA_logo.svg.png"
+
+    alt = "Hololive INDONESIA" 
+    height = "150"
+    title = "Hololive INDONESIA"
+
+    ><br>
+
+    <figcaption><b><a href="https://www.hololive.tv/member">Hololive INDONESIA group</a></b></figcaption>
+    </figure></center><br><br><br>  
+  
+  <h3>My favorite "Hololive" group member</h3><br>
+
+  <p3>In hololive JP, it is made up of five generation of idols, 23 people in total.And my favorite member is from 3rd generation,whose name is Houshou Marine.<br><br>Her funny personality and “always-horny” characteristic,and attracting outlook that make her streaming always filled with intriguing ,high quality content.As a Vtuber, with her passionate and effort on working,and positive personality that make her own 1.7 million of subscibers on her Youtube channel. </p3><br><br><br>
+
+
+  <center><figure>    
+    <img src = "https://pbs.twimg.com/media/EfNgtNqVAAEPik3.jpg"
+    alt = "Hololive 3rd generation idol Houshou Marine" 
+    height = "500"
+    title = "Hololive 3rd generation idol Houshou Marine"
+    ><br>
+
+    <figcaption><b><a href="https://www.hololive.tv/portfolio/items/houshou-marine">Houshou Marine</a> , First debut with the identity of 3rd generation idol in Hololive.</b></figcaption>
+    </figure></center>
+
+
+
+
+
+
+</body>
+</html>
